@@ -1,0 +1,18 @@
+.text{
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+
+}
+.span{
+    color: #0082F4;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+}
